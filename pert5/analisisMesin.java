@@ -35,7 +35,7 @@ class analisisMesin {
 			
 			int minPerformaIdx = i;
 			for(int j = i + 1; j < kumpulanMesin.length; ++j) {
-				if(kumpulanMesin[j].nilaiPerforma() < kumpulanMesin[minPerformaIdx].nilaiPerforma()) {
+				if(kumpulanMesin[j].nilaiPerforma() > kumpulanMesin[minPerformaIdx].nilaiPerforma()) {
 					minPerformaIdx = j;
 				}
 			}
