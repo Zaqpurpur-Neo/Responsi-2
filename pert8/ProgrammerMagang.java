@@ -73,7 +73,13 @@ public class ProgrammerMagang implements KaryawanKontrak, AksesSistem {
     
     // @Override: IMPLEMENTASIKAN getRoleAkses() (Override Default Method)
     // LOGIKA: Kembalikan nilai String yang spesifik untuk magang: "Magang IT".
-   	
+   
+	@Override
+	public String getRoleAkses() {
+		return "Magang IT";
+	}
+
+
 	@Override
 	public void login(String pin) {
 		if(pinRahasia.equals(pin)) {
