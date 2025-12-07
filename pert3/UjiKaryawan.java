@@ -10,7 +10,7 @@ class UjiKaryawan {
         System.out.println(); // Baris baru/jarak
 
         // Buat objek Manajer (Siti)
-        Manajer manajer = new Manajer("Siti Aminah", 600000, 25000); 
+        Manajer manajer = new Manajer("Siti Aminah", 6000000, 2500000); 
 		manajer.tampilInfo();
     }
 }
