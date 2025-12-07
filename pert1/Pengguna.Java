@@ -46,7 +46,7 @@ Kebutuhan Kalori: 720 kal/hari
 		System.out.println("=== Informasi Kesehatan Pengguna ===");
 		System.out.printf("Umur: %d tahun\n", umur);
 		System.out.printf("Berat: %f kg\n", beratBadan);
-		System.out.printf("Tinggi: %f tahun\n", tinggiBadan);
+		System.out.printf("Tinggi: %f cm\n", tinggiBadan);
 		System.out.printf("BMI: %f\n", hitungBMI());
 		tampilKategori();
 		System.out.printf("Kebutuhan Kategori: %f kal/hari\n", hitungKalori());
