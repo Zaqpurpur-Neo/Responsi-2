@@ -1,9 +1,9 @@
 # Responsi 2 - Praktikum Pemrograman Berorientasi Objek
 
-**Dibuat oleh:** [Nama Anda]  
-**NIM:** [NIM Anda]  
-**Shift Baru:** [Shift Anda]    
-**Shift KRS:** [Shift Anda]
+**Dibuat oleh:** Arzaq Vincent Putra Prasetyo  
+**NIM:** H1D024051  
+**Shift Baru:** G 
+**Shift KRS:** B
 
 ---
 
@@ -17,7 +17,6 @@
 Jawab Setiap file `Pengayaan.txt` di masing-masing file pengayaan, untuk pertanyaan refleksi terkait konsep OOP yang dipelajari di pertemuan tersebut. (tidak usah bikin file baru, langsung kerjakan di txt itu).
 
 ## Pengumpulan Tugas
-
 1. Kerjakan seluruh soal pada setiap pertemuan.
 2. Lengkapi bagian kode yang masih rumpang sesuai instruksi soal.
 3. Jawab seluruh pertanyaan pada bagian pengayaan.
