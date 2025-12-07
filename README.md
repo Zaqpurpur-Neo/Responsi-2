@@ -5,7 +5,9 @@
 **Shift Baru:** G 
 **Shift KRS:** B
 
-**Disclaimer:** Saya tidak menggunakan intellij idea, melainkan manual java dari terminal. jadi apabila terdapat .class di dalam folder merupakan hasil compile manual menggunakan bat file run-java.bat yang saya buatkan
+### Disclaimer
+> [!NOTE]
+> Saya tidak menggunakan intellij idea, melainkan manual java dari terminal. jadi apabila terdapat .class di dalam folder merupakan hasil compile manual menggunakan bat file run-java.bat yang saya buatkan. file yang digunakan yang terdapat kodenya bukan .class namun .java
 
 ---
 
